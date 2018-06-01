@@ -9,7 +9,7 @@ import Router from './Router';
 class App extends Component {
   componentWillMount() {
     const config = {
-      apiKey: 'AIzaSyBR4FTGiOcTZ5OBNi6thE0KhCDR3PaOtQM',
+      apiKey: '',
       authDomain: 'manager-2328b.firebaseapp.com',
       databaseURL: 'https://manager-2328b.firebaseio.com',
       storageBucket: 'manager-2328b.appspot.com',
