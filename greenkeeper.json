@@ -1,0 +1,9 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "manager/package.json"
+      ]
+    }
+  }
+}
